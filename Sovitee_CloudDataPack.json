@@ -1,0 +1,84 @@
+{
+  "LatestAppInfo": {
+    "Public": [
+      "20",
+      "1.0",
+      "Google.com",
+      "Version 1.0"
+    ],
+    "Beta": [
+      "16",
+      "1.0_build16",
+      "Google.com",
+      "Version 1.0 Beta"
+    ],
+    "HighRisk": [
+      "9",
+      "1.0_build9",
+      "Google.com",
+      "Version INTERNAL, build 9"
+    ]
+  },
+  "Newsletter": [
+    {
+      "Content": [
+        {
+          "type": "paragraph",
+          "content": "Hi lol, Louie here "
+        }
+      ],
+      "Title": "Sovitee is kinda torture to maintain ",
+      "Date": "December 17th, 2050",
+      "type": "Blog",
+      "image": "https://pbs.twimg.com/media/FtxnZUHXsAEy8ET?format=jpg&name=large"
+    },
+    {
+      "Content": [
+        {
+          "type": "paragraph",
+          "content": "Hi lol, Louie here "
+        }
+      ],
+      "Title": "Sovitee is kinda torture to maintain ",
+      "Date": "December 17th, 2050",
+      "type": "Blog",
+      "image": "https://pbs.twimg.com/media/FtxnZUHXsAEy8ET?format=jpg&name=large"
+    },
+    {
+      "Content": [
+        {
+          "type": "paragraph",
+          "content": "Hi lol, Louie here "
+        }
+      ],
+      "Title": "Sovitee is kinda torture to maintain ",
+      "Date": "December 17th, 2050",
+      "type": "Blog",
+      "image": "https://pbs.twimg.com/media/FtxnZUHXsAEy8ET?format=jpg&name=large"
+    },
+    {
+      "Content": [
+        {
+          "type": "paragraph",
+          "content": "Hi lol, Louie here "
+        }
+      ],
+      "Title": "Sovitee is kinda torture to maintain ",
+      "Date": "December 17th, 2050",
+      "type": "Blog",
+      "image": "https://pbs.twimg.com/media/FtxnZUHXsAEy8ET?format=jpg&name=large"
+    },
+    {
+      "Content": [
+        {
+          "type": "paragraph",
+          "content": "Hi lol, Louie here "
+        }
+      ],
+      "Title": "Sovitee is kinda torture to maintain ",
+      "Date": "December 17th, 2050",
+      "type": "Blog",
+      "image": "https://pbs.twimg.com/media/FtxnZUHXsAEy8ET?format=jpg&name=large"
+    }
+  ]
+}
