@@ -1,5 +1,5 @@
 # Sovitee
-A (probably) new way to manage your notes
+💜 A (probably) new way to manage your notes
 
 Latest release info
 ----------------------------
