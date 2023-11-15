@@ -1,0 +1,30 @@
+{
+  "LatestAppInfo": {
+    "Public": [
+      "20",
+      "1.0",
+      "Google.com",
+      "Version 1.0",
+      "Version 1.0",
+      "Version 1.0"
+    ],
+    "Beta": [
+      "29",
+      "1.0_beta2.5",
+      "louieisahuman.cluster.ws/sovitee",
+      "Version 1.0, Beta 2.5",
+      "New features\n-------------------\n🔑 You can now reset your PIN using a recovery code.\n🎨 Account elements now support custom background colors!\n🙂 Notebooks and elements can now be rearranged.\n👾 Redesigned the MTK News Team Member element :3\n🪐 MTK News team members can now add their team member cards (Modern) to Sovitee.\n\nMore features are on the way too :3\n",
+      "November 15th, 2023"
+    ],
+    "HighRisk": [
+      "9",
+      "1.0_build9",
+      "Google.com",
+      "Version INTERNAL, build 9",
+      "Version INTERNAL, build 9",
+      "Version INTERNAL, build 9"
+    ]
+  },
+  "Newsletter": [
+  ]
+}
