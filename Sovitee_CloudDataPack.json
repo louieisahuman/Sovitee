@@ -1,0 +1,30 @@
+{
+  "LatestAppInfo": {
+    "Public": [
+      "20",
+      "1.0",
+      "Google.com",
+      "Version 1.0",
+      "Version 1.0",
+      "Version 1.0"
+    ],
+    "Beta": [
+      "38",
+      "1.0_beta4.2",
+      "louieisahuman.com",
+      "Version 1.0, Beta 4.2",
+      "What's new in Beta 4.2\n\n🥰 Fixed an issue where the \"add new\" button overlapped with the notebook list when it's scrolled all the way down.\n👾 Fixed an issue where random string elements didn't show the full content in glance view.\n\n--------------------\nWhat's new in Beta 4.1\n😮 Fixed an issue where hiding an element in glance view didn't work correctly\n\n--------------------\nWhat's new in Beta 4:\n🙂 All element UIs are now improved and simply look better.\n🥰 Redesigned the feedback page from the ground up!\n👾 The payment card element UI no longer looks like a disaster.\n🪲 This release fixes the following issues:\n-Fixed an issue where some fields in the 'add new element' panel were handled as incorrect types of data\n-Fixed an issue where the keyboard didn't hide automatically in OOBE\"",
+      "July 14th, 2024"
+    ],
+    "HighRisk": [
+      "9",
+      "1.0_build9",
+      "Google.com",
+      "Version INTERNAL, build 9",
+      "Version INTERNAL, build 9",
+      "Version INTERNAL, build 9"
+    ]
+  },
+  "Newsletter": [
+  ]
+}
