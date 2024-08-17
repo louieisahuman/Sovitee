@@ -1,0 +1,30 @@
+{
+  "LatestAppInfo": {
+    "Public": [
+      "20",
+      "1.0",
+      "Google.com",
+      "Version 1.0",
+      "Version 1.0",
+      "Version 1.0"
+    ],
+    "Beta": [
+      "44",
+      "1.0_beta5.1",
+      "louieisahuman.com",
+      "Version 1.0, Beta 5.1",
+      "What's new in Beta 5\n\n‼️ Sovitee is now Skye! Same app, better name :>\n🤩 The way you manage your profile has been completely rebuilt! You can now use local images as your profile spotlight or any emoji!\n✨ A lot of UI elements and pages have been completely redesigned!\n😬 You can now also use any emoji as your notebook icon\n🔢 You can now see how many elements you notebooks have!\n👽You can now share the contents of any element!*\n➕Completely revamped the element addition experience!\n🥳 Introducing the mood meter! The all-new element that allows you to uh, track your mood.\n✌🏻You can now use a different font on text, quote, and random string elements! **\n+And more changes I can’t remember \n\n*Doesn’t include images yet, coming in a later release.\n**Disabled in beta 5.1, I'll bring it back later :>",
+      "August 16th, 2024"
+    ],
+    "HighRisk": [
+      "9",
+      "1.0_build9",
+      "Google.com",
+      "Version INTERNAL, build 9",
+      "Version INTERNAL, build 9",
+      "Version INTERNAL, build 9"
+    ]
+  },
+  "Newsletter": [
+  ]
+}
